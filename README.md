@@ -14,7 +14,7 @@ Contributors Github pages:
 
 [Alara Hergün](https://github.com/alarahergun)
 
-Başak Ekinci
+[Başak Ekinci](https://github.com/ekincibasak)
 
 [Efehan Danışman](https://github.com/efehandanisman)
 
